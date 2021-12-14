@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\xampp\\htdocs\\kore"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  },
+  "extensions": {
+    "recommendations": ["alefragnani.rtf"]
+  }
+}
